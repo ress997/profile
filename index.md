@@ -11,7 +11,10 @@ Web 系が好きで他分野も色々と勉強していきます!
 - [Qiita](https://qiita.com/ress)
 
 ## SNS
-- [mstdn.jp](https://mstdn.jp/@ress)
-- [pl.x39.dev](https://pl.x39.dev/users/ress)
-- [syosetu.social](https://syosetu.social/@ress)
-- [yukari.cafe](https://yukari.cafe)
+
+<ul>
+<li><a rel="me" href="https://mstdn.jp/@ress">mstdn.jp</a></li>
+<li><a rel="me" href="https://pl.x39.dev/users/ress">pl.x39.dev</a></li>
+<li><a rel="me" href="https://syosetu.social/@ress">syosetu.social</a></li>
+<li><a rel="me" href="https://yukari.cafe/@ress">yukari.cafe</a></li>
+</ul>

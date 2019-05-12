@@ -1,5 +1,4 @@
 ---
-title: Portfolio
 ---
 情報学科に所属する大学生です
 
@@ -18,3 +17,9 @@ Web 系が好きで他分野も色々と勉強していきます!
 <li><a rel="me" href="https://syosetu.social/@ress">syosetu.social</a></li>
 <li><a rel="me" href="https://yukari.cafe/@ress">yukari.cafe</a></li>
 </ul>
+
+## 運用してるサービス
+
+- [Gitea](https://git.x39.dev/)
+- [Pleroma/x39](https://pl.x39.dev/about)
+- [syosetu.social](https://syosetu.social/about)

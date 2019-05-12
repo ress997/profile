@@ -1,0 +1,8 @@
+encoding: utf-8
+exclude: ["Gemfile", "Gemfile.lock", "CNAME"]
+
+title: "x39.dev"
+url: "https://x39.dev"
+
+author:
+  name: "ress"

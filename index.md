@@ -5,8 +5,12 @@
 Web 系が好きで他分野も色々と勉強していきます!
 
 - [Blog](https://blog.x39.dev)
-- [GitHub](https://github.com/ress997)
 - [Keybase](https://keybase.io/ress)
+
+## Dev
+[sourcerer.io](https://sourcerer.io/ress997) でグラフィカルに Git リポジトリで使用してるものなどが見れます
+
+- [GitHub](https://github.com/ress997)
 - [Qiita](https://qiita.com/ress)
 
 ## SNS

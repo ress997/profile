@@ -26,5 +26,4 @@ Web 系が好きで他分野も色々と勉強していきます!
 ## 運用してるサービス
 
 - [Gitea](https://git.x39.dev/)
-- [Pleroma/x39](https://pl.x39.dev/about)
 - [syosetu.social](https://syosetu.social/about)

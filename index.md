@@ -1,6 +1,7 @@
 ---
 layout: default
 ---
+
 情報学科に所属する大学生です
 
 Web 系が好きで他分野も色々と勉強しています!
@@ -19,7 +20,7 @@ Web 系が好きで他分野も色々と勉強しています!
 
 <ul>
 	<li><a rel="me" href="https://mstdn.jp/@ress">@ress@mstdn.jp</a></li>
-	<li><a rel="me" href="https://pleroma.x39.dev/users/ress">@ress@pleroma.x39.dev</a></li>
+	<li><a rel="me" href="https://pleroma.39.gy/users/ress">@ress@pleroma.39.gy</a></li>
 	<li><a rel="me" href="https://fumi.39.gy/@ress">@ress@fumi.39.gy</a></li>
 	<li><a rel="me" href="https://yukari.cafe/@ress">@ress@yukari.cafe</a></li>
 </ul>
@@ -28,4 +29,3 @@ Web 系が好きで他分野も色々と勉強しています!
 
 - [Gitea](https://git.x39.dev/)
 - [fumi](https://fumi.39.gy/about)
-	- [Mastodon](https://github.com/tootsuite/mastodon)

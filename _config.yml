@@ -1,8 +1,0 @@
-encoding: utf-8
-exclude: ["Gemfile", "Gemfile.lock", "CNAME"]
-
-title: "Ress Profile"
-url: "https://ress.39.gy"
-
-author:
-  name: "ress"

@@ -1,0 +1,51 @@
+languageCode = "ja"
+enableGitInfo = true
+hasCJKLanguage = true
+pluralizeListTitles = false
+paginatePath = ""
+disableKinds = ["page", "section", "taxonomy", "taxonomyTerm"]
+
+baseURL = "https://ress.39.gy/"
+theme = "hallo"
+
+title = "Ress Profile"
+googleAnalytics = "UA-128645055-3"
+
+[Author]
+name = "Ress"
+
+#[params.colors]
+#background = "#81c6ff"
+#foreground = "#edf7ff"
+#hover = "#ffba82"
+
+[[params.links]]
+icon = "github"
+title = "Github"
+url = "https://github.com/ress997"
+
+[[params.links]]
+icon = "wordpress-simple"
+title = "Blog"
+url = "https://blog.39.gy"
+
+[[params.links]]
+iconset = "fas"
+icon = "comment-alt"
+title = "Pleroma"
+url = "https://pleroma.39.gy/users/ress"
+
+[[params.links]]
+icon = "mastodon"
+title = "Fumi"
+url = "https://fumi.39.gy/@ress"
+
+[[params.links]]
+icon = "mastodon"
+title = "yukari.cafe"
+url = "https://yukari.cafe/@ress"
+
+[[params.links]]
+icon = "mastodon"
+title = "Pawoo"
+url = "https://pawoo.net/@ress"

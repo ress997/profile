@@ -20,14 +20,15 @@ name = "Ress"
 #hover = "#ffba82"
 
 [[params.links]]
-icon = "github"
-title = "Github"
-url = "https://github.com/ress997"
+iconset = "fas"
+icon = "id-badge"
+title = "Portfolio"
+url = "https://x39.dev/"
 
 [[params.links]]
 icon = "wordpress-simple"
 title = "Blog"
-url = "https://blog.39.gy"
+url = "https://blog.39.gy/"
 
 [[params.links]]
 iconset = "fas"

@@ -1,0 +1,16 @@
+{
+  "name": "profile",
+  "version": "1.0.0",
+  "author": "Ress <git@x39.dev>",
+  "license": "MIT",
+  "scripts": {
+    "build": "hugo --minify",
+    "build:dev": "hugo",
+    "server": "hugo server --minify --disableLiveReload",
+    "server:dev": "hugo server --minify --disableLiveReload",
+    "deploy": "firebase deploy --token $FIREBASE_TOKEN"
+  },
+  "optionalDependencies": {
+    "firebase-tools": "*"
+  }
+}

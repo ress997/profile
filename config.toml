@@ -31,8 +31,7 @@ title = "Blog"
 url = "https://blog.39.gy/"
 
 [[params.links]]
-iconset = "fas"
-icon = "comment-alt"
+icon = "mastodon"
 title = "Mastodon"
 url = "https://39.gy/#ress"
 

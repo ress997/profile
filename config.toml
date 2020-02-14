@@ -33,8 +33,8 @@ url = "https://blog.39.gy/"
 [[params.links]]
 iconset = "fas"
 icon = "comment-alt"
-title = "Pleroma"
-url = "https://pleroma.39.gy/users/ress"
+title = "Mastodon"
+url = "https://39.gy/#ress"
 
 [[params.links]]
 icon = "mastodon"

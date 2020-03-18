@@ -5,7 +5,7 @@ pluralizeListTitles = false
 paginatePath = ""
 disableKinds = ["page", "section", "taxonomy", "taxonomyTerm"]
 
-baseURL = "https://ress.39.gy/"
+baseURL = "https://profile.39.gy/"
 theme = "hallo"
 
 title = "Ress Profile"
@@ -20,20 +20,9 @@ name = "Ress"
 #hover = "#ffba82"
 
 [[params.links]]
-iconset = "fas"
-icon = "id-badge"
-title = "Portfolio"
-url = "https://x39.dev/"
-
-[[params.links]]
-icon = "wordpress-simple"
-title = "Blog"
-url = "https://blog.39.gy/"
-
-[[params.links]]
-icon = "mastodon"
-title = "Mastodon"
-url = "https://39.gy/#ress"
+icon = "twitter"
+title = "Twitter"
+url = "https://twitter.com/@ress997"
 
 [[params.links]]
 icon = "mastodon"
@@ -47,5 +36,21 @@ url = "https://yukari.cafe/@ress"
 
 [[params.links]]
 icon = "mastodon"
-title = "Pawoo"
-url = "https://pawoo.net/@ress"
+title = "social.minecraft.ooo"
+url = "https://social.minecraft.ooo/@ress"
+
+[[params.links]]
+icon = "mastodon"
+title = "kancolle.social"
+url = "https://kancolle.social/@ress"
+
+[[params.links]]
+iconset = "fas"
+icon = "id-badge"
+title = "Portfolio"
+url = "https://x39.dev/"
+
+[[params.links]]
+icon = "wordpress-simple"
+title = "Blog"
+url = "https://blog.39.gy/"

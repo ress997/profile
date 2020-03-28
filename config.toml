@@ -14,15 +14,10 @@ googleAnalytics = "UA-128645055-3"
 [Author]
 name = "Ress"
 
-#[params.colors]
-#background = "#81c6ff"
-#foreground = "#edf7ff"
-#hover = "#ffba82"
-
-[[params.links]]
-icon = "twitter"
-title = "Twitter"
-url = "https://twitter.com/@ress997"
+[params.colors]
+background = "#86cecb"
+foreground = "#fffeec"
+hover = "#96297b"
 
 [[params.links]]
 icon = "mastodon"
@@ -43,14 +38,3 @@ url = "https://social.minecraft.ooo/@ress"
 icon = "mastodon"
 title = "kancolle.social"
 url = "https://kancolle.social/@ress"
-
-[[params.links]]
-iconset = "fas"
-icon = "id-badge"
-title = "Portfolio"
-url = "https://x39.dev/"
-
-[[params.links]]
-icon = "wordpress-simple"
-title = "Blog"
-url = "https://blog.39.gy/"

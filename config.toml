@@ -5,7 +5,7 @@ pluralizeListTitles = false
 paginatePath = ""
 disableKinds = ["page", "section", "taxonomy", "taxonomyTerm"]
 
-baseURL = "https://profile.39.gy/"
+baseURL = "https://ress.39.gy/"
 theme = "hallo"
 
 title = "Ress Profile"

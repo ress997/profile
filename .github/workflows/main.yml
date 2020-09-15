@@ -43,7 +43,7 @@ jobs:
           name: public
 
       - name: Create CNAME
-        run: echo "profile.39.gy" > public/CNAME
+        run: echo "ress.39.gy" > public/CNAME
 
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3

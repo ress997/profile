@@ -1,40 +1,76 @@
 languageCode = "ja"
-enableGitInfo = true
 hasCJKLanguage = true
-pluralizeListTitles = false
 paginatePath = ""
-disableKinds = ["page", "section", "taxonomy", "taxonomyTerm"]
+pluralizeListTitles = false
+enableGitInfo = true
+enableRobotsTXT = true
 
 baseURL = "https://ress.39.gy/"
-theme = "hallo"
+theme = "PaperMod"
 
 title = "Ress Profile"
 googleAnalytics = "UA-128645055-3"
 
-[Author]
-name = "Ress"
+[params]
+env = "production"
+defaultTheme = "auto"
+comments = true
+ShowReadingTime = true
+ShowShareButtons = true
 
-[params.colors]
-background = "#86cecb"
-foreground = "#fffeec"
-hover = "#96297b"
+title = "Ress Profile"
+description = "情報学科に所属する大学生です"
+#images = "<link or path of image for opengraph, twitter-cards>"
+author = "Ress"
 
-[[params.links]]
-icon = "mastodon"
-title = "Fumi"
-url = "https://fumi.39.gy/@ress"
+[params.profileMode]
+enabled = true
+title = "Ress"
+imageUrl = "/img/avatar.png"
 
-[[params.links]]
-icon = "mastodon"
-title = "yukari.cafe"
-url = "https://yukari.cafe/@ress"
+[[params.profileMode.buttons]]
+name = "About Me"
+url = "/about/"
+weight = 1
 
-[[params.links]]
-icon = "mastodon"
-title = "social.minecraft.ooo"
-url = "https://social.minecraft.ooo/@ress"
+[[params.profileMode.buttons]]
+name = "Posts"
+url = "/posts/"
+weight = 2
 
-[[params.links]]
-icon = "mastodon"
-title = "kancolle.social"
-url = "https://kancolle.social/@ress"
+[[params.socialIcons]]
+name = "Blog"
+url = "https://www.39.gy/"
+weight = 1
+
+[[params.socialIcons]]
+name = "twitter"
+url = "https://twitter.com/ress997"
+weight = 2
+
+[[params.socialIcons]]
+name = "github"
+url = "https://github.com/ress997"
+weight = 3
+
+[[menu.main]]
+name = "Home"
+url = "/"
+weight = 1
+
+[[menu.main]]
+name = "Archives"
+url = "/archives/"
+weight = 2
+
+[[menu.main]]
+name = "Tags"
+url = "/tags/"
+weight = 3
+
+[taxonomies]
+tag = "tags"
+
+[minify]
+disableXML = true
+minifyOutput = true

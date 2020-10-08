@@ -1,0 +1,37 @@
+name: Build and Deploy
+on:
+  push:
+    branches:
+    - main
+  repository_dispatch:
+  schedule:
+    - cron: '0 6 * * *'
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+        with:
+          fetch-depth: 0
+
+      - name: Download theme
+        uses: actions/checkout@v2
+        with:
+          repository: adityatelange/hugo-PaperMod
+          path: themes/PaperMod
+
+      - name: Setup Hugo
+        uses: peaceiris/actions-hugo@v2
+        with:
+          hugo-version: 'latest'
+          extended: true
+
+      - name: Build
+        run: hugo --gc --minify
+
+      - name: Deploy to GitHub Pages
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./public
+          cname: ress.39.gy

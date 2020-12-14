@@ -9,7 +9,6 @@ baseURL = "https://ress.39.gy/"
 theme = "PaperMod"
 
 title = "Ress Profile"
-googleAnalytics = "UA-128645055-3"
 
 [params]
 env = "production"
